@@ -1,4 +1,4 @@
-### Hi stranger, my name is  <span style="color: red;">xegativ</span>.
+### Hi stranger, my name is  Xegativ
 
 [![Xegativ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xegativ&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
