@@ -1,4 +1,4 @@
-### XE
+### Hi stranger! I am XEGATIV
 
 <!--
 **xegativ/xegativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
