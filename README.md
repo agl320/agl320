@@ -1,4 +1,4 @@
-### Hi stranger, my name is  xegativ.
+### i am taco
 [![xegativ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xegativ&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xegativ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
